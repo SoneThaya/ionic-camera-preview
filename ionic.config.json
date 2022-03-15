@@ -1,0 +1,7 @@
+{
+  "name": "academyPrview",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
